@@ -1,7 +1,4 @@
 # organizer
-<<<<<<< HEAD
-Vue.js project
-=======
 
 ## Project setup
 ```
@@ -25,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> d4b5aaa1116ac6da1794510f0b4b305defee9db2
