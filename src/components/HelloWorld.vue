@@ -2,7 +2,9 @@
   <div class="organizer">
     <h1>{{ msg }}</h1>
     <p>
-      Welcome to Orgnaizer! 
+      Welcome to Orgnaizer!
+    </p>
+    <p> 
       <a href="https://github.com/jragland/organizer" target="_blank" rel="noopener">organizer Github</a>.
     </p>
   </div>
