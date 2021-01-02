@@ -7,6 +7,26 @@
     <p> 
       <a href="https://github.com/jragland/organizer" target="_blank" rel="noopener">organizer Github</a>.
     </p>
+    <p>
+      Daily Routine
+        0530
+            Wake Up
+                Stretch (10 mins)
+                Workout (Bike 3miles or Walk 2miles) (60 mins)
+                Brush Teeth (5 mins)
+                Mouth Wash
+                Shower (30 mins)
+                Eat Small Breakfast (30 mins)
+        0800
+            Work
+                8am to 5pm
+                Eat Small Lunch (45 mins at ~ 1200)
+        1700
+            After Work
+                Chores (60 mins)
+                Cook/Eat Dinner (60 mins)
+                Read (30+ mins)
+    </p>
   </div>
 </template>
 
