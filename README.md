@@ -4,8 +4,6 @@
 
 Snyk - [![Known Vulnerabilities](https://snyk.io/test/github/jragland/organizer/badge.svg?targetFile=package.json)](https://snyk.io/test/github/jragland/organizer?targetFile=package.json)
 
-
-
 ## Project setup
 ```
 npm install
