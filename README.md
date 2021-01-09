@@ -1,4 +1,6 @@
 # Organizer
+Welcome to Organizer. This is a tool I am working on in order to help organize my life. Updates will be made as I have time to work on this. 
+
 
 ## Badges
 
